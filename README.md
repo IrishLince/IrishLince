@@ -87,7 +87,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/irish t. lince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irish t. lince" height="30" width="40" /></a>
-<a href="https://instagram.com/carti_dior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carti_dior" height="30" width="40" /></a>
+<a href="https://instagram.com/carti_dior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cartiii_dior" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@irishlince6328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@irishlince6328" height="30" width="40" /></a>
 </p>
 
